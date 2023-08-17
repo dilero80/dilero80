@@ -2,7 +2,8 @@
 💼  I'm currently working on my own projects and maintaing some Wordpress Sites for Smart PR <br>💻  Looking for remote work.<br>🦾  I'm currently pursuing a course with Globant University in Java Backend / Fullstack.<br>🧑🏿‍💻  I love Python, C and I am currently learning Java. <br>🌐  I know CSS, HTML and I am currently learning React.<br><br>
 
 ##🌐 Socials:
-https://img.shields.io/badge/Linkedin-dilero-brightgreen?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdilero%2F
+![Static Badge](https://img.shields.io/badge/Linkedin-dilero-brightgreen?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdilero%2F)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilero) 
 
