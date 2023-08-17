@@ -3,7 +3,8 @@
 
 ##🌐 Socials:
 
-![Static Badge](https://img.shields.io/badge/Linkedin-dilero-brightgreen?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdilero%2F)
+![Static Badge](https://img.shields.io/badge/Linkedin-dilero-blue?style=social&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdilero%2F)
+
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilero) 
