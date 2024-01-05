@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼  I'm currently working on my own projects and maintaing some Wordpress Sites for Smart PR <br>💻  Looking for remote work.<br>🦾  I'm currently pursuing a course with Globant University in Java Backend / Fullstack.<br>🧑🏿‍💻  I love Python, C and I am currently learning Java. <br>🌐  I know CSS, HTML and I am currently learning React.<br><br>
+💼  Currently in Globant as a JAVA DEV Jr. <br>💻  Happy in Globant, looking for upgrade my seniority <br>🦾  I'm currently pursuing a course with Globant University in Java Frontend.<br>🧑🏿‍💻  I love Java, Python, C and I am currently learning React. <br>🌐  I know CSS, HTML and I am currently learning React.<br><br>
 
 ##🌐 Socials:
 
