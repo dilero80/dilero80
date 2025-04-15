@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼  Currently in Globant as a JAVA DEV Jr. <br>💻  Very Happy in Globant, looking for upgrade my seniority <br>🦾  I'm currently pursuing a course with Alura in Java Backend.<br>🧑🏿‍💻  I love Java, Python, C and I am currently learning Java Backend with Alura. <br>🌐  I know CSS, HTML and I am currently learning React.<br><br>
+💼  Currently in Globant as a JAVA DEV  <br>💻  Very Happy in Globant, looking for upgrade my seniority <br>🦾  I'm currently learning JMS and KAFKA, working to updgrade my seniority to SSR advance.<br>🧑🏿‍💻  I love Java, Python, C. <br>🌐  I know CSS, HTML and I am currently learning React.<br><br>
 
 ##🌐 Socials:
 
